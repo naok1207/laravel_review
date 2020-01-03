@@ -10,8 +10,7 @@
 
 <body>
   <div id="app">
-    <app />
+    <router-view />
   </div>
-    <script src="/js/home.js"></script>
-</body>
+  <script src="/js/app.js"></script>
 </html>
